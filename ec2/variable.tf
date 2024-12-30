@@ -1,0 +1,3 @@
+variable "myEc2" {
+    
+}
